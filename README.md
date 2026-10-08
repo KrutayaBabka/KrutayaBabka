@@ -1,73 +1,70 @@
-# Hi, I'm Danil 👋
+# Hi, I'm Dan 👋
 
-**Software Developer | System Architecture | Technical Leadership**
+**Software Developer · Software Architecture · Technical Leadership**
 
-I build software with a focus on system design, maintainable architecture, and engineering practices. My primary languages are **Python and C++**, and I enjoy working across different layers of a system — from implementation details to infrastructure and development workflows.
+I build software with a strong focus on **architecture, system design, infrastructure, and engineering practices**. My primary languages are **Python and C++**, while I also work across frontend development, data analysis, machine learning, and computer vision.
 
-I'm interested in building reliable software, understanding architectural trade-offs, and turning ideas into well-structured, working products.
+I stay close to the code while thinking at the system level — designing how components, services, data, infrastructure, and development workflows fit together.
 
-## 🚀 What I'm Working On
+## 🚀 Current Focus
 
-* **Software Architecture** — modular design, system design, and maintainability.
-* **Engineering Practices** — testing, CI/CD, documentation, and development workflows.
-* **Infrastructure & Systems** — APIs, databases, background processing, and application integration.
-* **Automation & Data** — building tools and systems that simplify complex tasks.
-* **Exploration** — expanding my experience in frontend development, machine learning, and computer vision.
+* **Software Architecture** — modular design, system design, scalability, and maintainability.
+* **Infrastructure & Systems** — APIs, databases, background processing, caching, and service integration.
+* **Engineering** — testing, CI/CD, documentation, automation, and development workflows.
+* **Technical Leadership** — making architectural decisions, improving engineering processes, and building systems that are easier to evolve.
+* **Exploration** — expanding my experience in frontend development, data, machine learning, and computer vision.
 
 I'm also working on **Bear News**, a private commercial project focused on financial news, market analysis, and intelligent data processing.
 
-## 🧩 Featured Projects
+## 🧠 Engineering Approach
 
-### [Autonomous Vision Tracking](https://github.com/ModularTurretSystems/autonomous-vision-tracking)
+I believe good software is not only about writing code that works, but about building systems that are **clear, reliable, maintainable, and capable of evolving**.
 
-Computer vision and hardware experimentation involving object detection, tracking, camera calibration, and depth estimation.
-
-### [DOCX Format Validator](https://github.com/KrutayaBabka/docx-format-validator)
-
-A Python tool for validating and automatically fixing DOCX formatting, with reports and highlighted formatting issues.
-
-### [Lalafo.kg Car Listing Crawler](https://github.com/KrutayaBabka/Lalafo.kg-Car-Listing-Crawler)
-
-A web crawler for collecting and processing car listings from Lalafo.kg.
-
-### [NVIDIA Time Series Analysis](https://github.com/QuantLattice/nvidia-time-series-analysis)
-
-A time-series analysis and stock price forecasting project using historical NVIDIA market data.
-
-### [ParserHub](https://github.com/Chedrax/parserhub)
-
-A modular platform for scheduling, running, and managing web parsers through a unified interface.
-
-### [Mashina.kg Car Listing Crawler](https://github.com/KrutayaBabka/Mashina.kg-Car-Listing-Crawler)
-
-A web crawler for collecting and processing vehicle listings from Mashina.kg.
+I enjoy working from implementation details up to architecture and infrastructure, understanding the trade-offs behind technical decisions and keeping complexity under control.
 
 ## 🛠️ Technologies & Tools
 
-**Languages**
+### Core
 
-Python · C++ · TypeScript · JavaScript
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,ts,js" alt="Core technologies" />
+</p>
 
-**Backend & Data**
+### Backend & Systems
 
-FastAPI · SQLAlchemy · PostgreSQL · Redis · Celery · Pandas · NumPy
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,postgres,redis,docker,linux" alt="Backend and systems technologies" />
+</p>
 
-**Frontend**
+### Frontend
 
-React · Next.js · HTML · CSS
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css" alt="Frontend technologies" />
+</p>
 
-**Infrastructure & Engineering**
+### Data, ML & Computer Vision
 
-Docker · Linux · Git · GitHub Actions · CI/CD · Automated Testing
+<p>
+  <img src="https://skillicons.dev/icons?i=opencv,arduino" alt="Data, machine learning and computer vision technologies" />
+</p>
 
-**Additional Interests**
+**Libraries & Engineering Tools**
 
-System Design · Machine Learning · Computer Vision · Data Analysis
+Python · C++ · FastAPI · SQLAlchemy · PostgreSQL · Redis · Celery · Pandas · NumPy · Matplotlib · OpenCV · Git · GitHub Actions · CI/CD · Automated Testing
 
-## 📈 GitHub Activity
+## 📊 GitHub Activity
 
-I use GitHub to build projects, explore engineering ideas, and continuously improve my development practices.
+<p align="center">
+  <a href="https://github.com/KrutayaBabka">
+    <img height="180" src="https://github-stats-extended.vercel.app/api?username=KrutayaBabka&show_icons=true&theme=transparent&hide_border=true&hide_rank=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_all_commits=true" alt="GitHub Statistics" />
+  </a>
+  <a href="https://github.com/KrutayaBabka">
+    <img height="180" src="https://streak-stats.demolab.com/?user=KrutayaBabka&theme=transparent&hide_border=true&border_radius=8&disable_animations=true" alt="GitHub Streak" />
+  </a>
+</p>
 
-## 🤝 Let's Connect
+---
 
-Always interested in discussing software engineering, system architecture, automation, and building useful products.
+<p align="center">
+  Building systems, solving problems, and continuously improving.
+</p>
